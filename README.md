@@ -1,11 +1,37 @@
-# Natural-AI-Voice-Generator
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>AI Voice Generator | Natural Text to Speech Online</title>
+  <title>AI Voice Generator | Natural Text to Speech in 100+ Languages</title>
   <meta name="description" content="Create realistic, natural-sounding voices in 100+ languages using our free, open-source AI voice generator. No sign-up needed.">
+  <meta name="keywords" content="AI voice generator, text to speech, Assamese TTS, open source TTS, voice cloning, multilingual voice generator">
+  <meta name="author" content="Sanjib Kumar Hazarika">
+  <link rel="canonical" href="https://your-domain.com/"/>
+
+  <!-- Open Graph (Facebook, LinkedIn) -->
+  <meta property="og:title" content="AI Voice Generator | Free TTS in 100+ Languages">
+  <meta property="og:description" content="Convert text to natural voice in 100+ languages, including Assamese. Free, fast, and open-source.">
+  <meta property="og:image" content="https://your-domain.com/cover-image.jpg">
+  <meta property="og:url" content="https://your-domain.com/">
+  <meta property="og:type" content="website">
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="AI Voice Generator | Free Text to Speech">
+  <meta name="twitter:description" content="Multilingual, realistic voice generation with no login. Try it now.">
+  <meta name="twitter:image" content="https://your-domain.com/cover-image.jpg">
+
+  <!-- Favicon -->
+  <link rel="icon" href="favicon.ico" type="image/x-icon">
+
+  <!-- Google AdSense Placeholder -->
+  <!-- Replace `ca-pub-xxxxxxxxxxxxxxxx` with your AdSense publisher ID -->
+  <!--
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-xxxxxxxxxxxxxxxx"
+     crossorigin="anonymous"></script>
+  -->
+
   <style>
     * { margin: 0; padding: 0; box-sizing: border-box; }
     body { font-family: 'Segoe UI', sans-serif; background: #f8f9fa; color: #333; }
